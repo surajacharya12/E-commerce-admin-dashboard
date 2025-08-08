@@ -19,5 +19,4 @@ This flutter dashboard library is versatile; it's tailored to work seamlessly on
 - Poppins [link](https://fonts.google.com/specimen/Poppins)
 
 ### Responsive Admin Panel or Dashboard Final UI Preview
-
-![App UI](/<img width="1710" height="1112" alt="Screenshot 2025-08-08 at 20 41 55" src="https://github.com/user-attachments/assets/d1a3346d-778c-492f-963f-a0722fc2b143" />
+<img width="1710" height="1112" alt="Screenshot 2025-08-08 at 20 41 55" src="https://github.com/user-attachments/assets/d1a3346d-778c-492f-963f-a0722fc2b143" />
