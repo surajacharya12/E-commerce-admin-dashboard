@@ -22,4 +22,5 @@ This flutter dashboard library is versatile; it's tailored to work seamlessly on
 
 ![Preview](/gif.gif)
 
-![App UI](/ui.png)
+![App UI](/<img width="1710" height="1112" alt="Screenshot 2025-08-08 at 20 41 55" src="https://github.com/user-attachments/assets/d1a3346d-778c-492f-963f-a0722fc2b143" />
+)
